@@ -17,7 +17,7 @@
 <h6>-coolnsmart</h6>
 <body style="background-color:BurlyWood;">
 <br><br>
-<button><a href="login.php"<b>Login</a><br>
+<button><a href="login.php"<b>Logout</a><br>
 </center>
 </body>
 </html>
