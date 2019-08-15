@@ -16,8 +16,8 @@
 <p>"College life is that part of your life that you are going to relive in your memories till you breathe."</p><br>
 <h6>-coolnsmart</h6>
 <body style="background-color:BurlyWood;">
-</center>
 <br><br>
 <button><a href="login.php"<b>Login</a><br>
+</center>
 </body>
 </html>
