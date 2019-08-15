@@ -7,7 +7,7 @@
 <body style="background-color:Green;">
 <center>
 <h1>WELCOME TO MY PHOTO GALLERY</h1>
-<a href="Photogallery.php">Proceed to Photo Gallery</a>
+<a href="index.php">Proceed to Photo Gallery</a>
 </center>
 </body>
 </html>
