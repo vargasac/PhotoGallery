@@ -2,7 +2,10 @@
 <head>
 <title>Login Page</title>
  <style type="text/css">
-   h2{font-family:algerian; color:lightblue;}
+   h2{font-family:algerian; color:lightblue; text-align:center;}
+  body{
+   background-color:red;
+  }
   </style>
 </head>
 <body>
