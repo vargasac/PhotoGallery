@@ -6,7 +6,7 @@
 <body>
 <center>
 <h1>VargasC Photo Gallery</h1>
-<h2>List of Images</h2>
+<h2 style="font-family:elephant; color: lightblue;">List of Images</h2>
 <nav>
 <a href="photo1.php"<b>Image 1</a><br>
 <a href="photo2.php"<b>Image 2</a><br>
