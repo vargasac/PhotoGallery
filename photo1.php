@@ -13,7 +13,6 @@
 <a href="index.php"<b>Back to Home</a>
 <a href="photo2.php"<b>Next Photo</a>
 </nav>
-<body style="background-color:Cyan;">
 </center>
 </body>
 </html>
