@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Image 3</title>
+   <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
 <center>
