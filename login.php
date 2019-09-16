@@ -4,7 +4,7 @@
  <style type="text/css">
    h2{font-family:algerian; color:lightblue; text-align:center;}
   body{
-   background-color:red;
+   background-color:gray;
   }
   </style>
 </head>
